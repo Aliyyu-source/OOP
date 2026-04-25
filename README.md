@@ -113,4 +113,8 @@ erDiagram
 
 ## Team
 
-Add your team members here.
+1. Aliyyu Zen-Abdeen
+2. Madhusan Regmi
+3. Pratibha Gyawali
+4. Md Nihon Mostari Siam
+5. Prabhunath Kalwar.
